@@ -1,1 +1,1 @@
-# datasci-demand-forcasting-custom-model
+# datasci-demand-forecasting-custom-model
